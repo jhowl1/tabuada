@@ -1,0 +1,7 @@
+body{
+    & .numero {
+        padding: 30px 15px;
+gap: 18px;
+
+    }
+}
